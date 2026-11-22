@@ -8,6 +8,7 @@ These are permanent testnet entry points. We will keep these addresses available
 
 | Purpose | URL |
 | --- | --- |
+| Testnet API guide on GitHub | https://github.com/VAN-Network/van-connector/blob/main/docs/testnet-api.md |
 | Agent/API guide (plain text) | https://test-api.thevan.app/llms.txt |
 | Browse orders (website) | https://test-api.thevan.app/orders |
 | Public order feed (JSON, no key required) | https://test-api.thevan.app/public/jobs |
